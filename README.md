@@ -3,7 +3,7 @@
 Para ver o projeto ao vivo, [clique aqui ](https://coderandressa.github.io/LateralMenuSimples/)
 
 
-![Projeto Preview](https://user-images.githubusercontent.com/79290110/161639564-beeccb44-515c-4bfc-a283-fbd34d6d9364.png)
+![Projeto Preview](https://user-images.githubusercontent.com/79290110/161639948-a0491e25-9b1a-4e37-ac45-64ec662da04c.png)
 
 Esse projeto foi realizado durante o curso Frontstart com o objetivo de aprender a criar um menu lateral simples e reutilizavel como componente
 
